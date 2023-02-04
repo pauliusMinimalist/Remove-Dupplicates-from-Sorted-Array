@@ -10,6 +10,7 @@ public class Main {
 }
 
 class Solution {
+
     public int removeDuplicates(int[] nums) {
         int arr = 1;
         for (int i = 1; i < nums.length; i++) {
